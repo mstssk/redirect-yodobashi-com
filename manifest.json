@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Redirect yodobashi.com",
-  "description": "ヨドバシ・ドット・コムが `https://yodobashi.com/` を `https://www.yodobashi.com/` にリダイレクトしてくれないので、自前でなんとかするChrome拡張機能です。",
+  "description": "ヨドバシ・ドット・コムが https://yodobashi.com/ を https://www.yodobashi.com/ にリダイレクトしてくれないので、自前でなんとかするChrome拡張機能です。",
   "version": "0.0.1",
   "permissions": ["tabs"],
   "background": {
